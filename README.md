@@ -1,5 +1,5 @@
 # icon-hover-effect
-Built responsive social media icons with the hover effect using HTML, and CSS.
+Built responsive social media icons with  hover effect using HTML and CSS.
 
 # ✨Features
 - Smooth hover animations on icons
